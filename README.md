@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sso9594)](https://solved.ac/백준아이디/)
+
 <!--
 **Ori-Gui/Ori-Gui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
