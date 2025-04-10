@@ -28,7 +28,7 @@
 
 
 ## 🏅 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ori-Gui)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ori-Gui&theme=tokyonight)
 
 ## 🏆 Solved.ac Profile
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dign552)](https://solved.ac/dign552/)
