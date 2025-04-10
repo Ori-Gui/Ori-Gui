@@ -1,6 +1,6 @@
 
-
-### 📚 Education & Experience
+---
+## 📚 Education & Experience
 
 - 🎓 **CNU Computer Science** (2019.03 ~ 2025.02)
 - 🏫 **CNU Academy** - Web Frontend (2023.07 ~ 2023.11)
