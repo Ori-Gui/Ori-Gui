@@ -1,4 +1,4 @@
-## 👋 Hi there!
+
 
 ### 📚 Education & Experience
 
@@ -41,20 +41,15 @@
 
 ---
 
-## 🏅 GitHub Stats
+## 🏆 GitHub & Solved.ac
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ori-Gui&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
-
-## 🏆 Solved.ac Profile
-
-<p align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://solved.ac/dign552/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dign552" alt="Solved.ac Profile" />
   </a>
 </p>
+
 
 ---
