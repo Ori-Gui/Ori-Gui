@@ -28,8 +28,7 @@
 
 
 ## 🏅 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Ori-Gui&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" alt="GitHub Stats">
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ori-Gui)
 
 ## 🏆 Solved.ac Profile
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dign552)](https://solved.ac/dign552/)
