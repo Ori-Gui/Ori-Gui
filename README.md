@@ -1,15 +1,12 @@
----
-
-### 📚 Education & Experience
-
-- 🎓 **CNU Computer Science** (2019.03 ~ 2025.02)
-- 🏫 **CNU 아카데미** - Web Frontend (2023.07 ~ 2023.11)
-- 🤓 **NHN 아카데미** - Spring Backend (2024.07 ~ 2024.12)
-- 👨🏻‍💻 **삼성청년SW·AI아카데미 13기** - Java (2025.01 ~ 2025.12)
+### 📚 Education
+- **CNU Computer Science** (2019.03 ~ 2025.02)
+- **CNU 아카데미** - Web Frontend (2023.07 ~ 2023.11)
+- **NHN 아카데미** - Spring Backend (2024.07 ~ 2024.12)
+- **삼성청년SW·AI아카데미 13기** - Java (2025.01 ~ 2025.12)
 
 ---
 
-### 🛠️ Tech Stacks
+### 👨‍💻 Skills
 
 #### Backend
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"> <img src="https://img.shields.io/badge/JWT%20%2F%20OAuth2-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
@@ -42,11 +39,10 @@
 
 ---
 
-## 🏆 GitHub & Solved.ac
+## 🏆 Solved.ac
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ori-Gui&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://solved.ac/dign552/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dign552" alt="Solved.ac Profile" />
   </a>
