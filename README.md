@@ -3,9 +3,9 @@
 ## 📚 Education & Experience
 
 - 🎓 **CNU Computer Science** (2019.03 ~ 2025.02)
-- 🏫 **CNU Academy** - Web Frontend (2023.07 ~ 2023.11)
-- 🤓 **NHN Academy** - Spring Backend (2024.07 ~ 2024.12)
-- 👨🏻‍💻 **SSAFY 13기** - Java (2025.01 ~ 2025.12)
+- 🏫 **CNU 아카데미** - Web Frontend (2023.07 ~ 2023.11)
+- 🤓 **NHN 아카데미** - Spring Backend (2024.07 ~ 2024.12)
+- 👨🏻‍💻 **삼성청년SW·AI아카데미 13기** - Java (2025.01 ~ 2025.12)
 
 ---
 
