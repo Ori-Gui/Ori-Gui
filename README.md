@@ -50,3 +50,7 @@
 <a href="mailto:dign552@naver.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge">
 </a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Ori-Gui&style=flat-square&label=Profile+Views&color=blue" alt="Profile Views" />
+</p>
+
