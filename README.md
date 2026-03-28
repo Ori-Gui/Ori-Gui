@@ -28,9 +28,13 @@
 
 ---
 
-### 🏆 Solved.ac
+### 📊 Stats
 
 <p align="center">
+  <a href="https://github.com/Ori-Gui">
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ori-Gui&layout=compact&langs_count=8&theme=dark&hide=html,css&exclude_repo=Ori-Gui" alt="Top Languages" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://solved.ac/dign552/">
     <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=dign552" alt="Solved.ac Profile" />
   </a>
