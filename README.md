@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://solved.ac/dign552/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dign552" alt="Solved.ac Profile" />
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=dign552" alt="Solved.ac Profile" />
   </a>
 </p>
 
