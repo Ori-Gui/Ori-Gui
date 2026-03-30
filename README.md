@@ -3,9 +3,9 @@
 | Period | Institution | Program / Degree |
 |---|---|---|
 | 2019.03 - 2025.02 | 🎓 **Chungnam National University** | **B.S. in Computer Science and Engineering** |
-| 2025.01 - 2025.12 | 🧑🏻‍💻 Samsung SW·AI Academy For Youth (SSAFY) 13th | Spring Backend |
-| 2024.07 - 2024.12 | 🧑🏻‍💻 NHN Academy 7th | Spring Backend |
-| 2023.07 - 2023.11 | 🧑🏻‍💻 CNU SW Academy 3rd | Web Frontend |
+| 2025.01 - 2025.12 | 🧑🏻‍💻 Samsung SW·AI Academy For Youth (SSAFY) 13th | Java Web Development |
+| 2024.07 - 2024.12 | 🧑🏻‍💻 NHN Academy 7th | Spring Boot Backend |
+| 2023.07 - 2023.11 | 🧑🏻‍💻 CNU SW Academy 3rd | React Web Frontend |
 
 ---
 
